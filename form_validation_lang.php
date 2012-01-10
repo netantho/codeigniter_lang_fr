@@ -23,6 +23,7 @@ $lang['is_numeric']			= "Le champ %s ne doit contenir que des caract&egrave;res 
 $lang['integer']			= "Le champ %s ne doit contenir qu'un nombre entier.";
 $lang['regex_match']			= "Le champ %s a un format incorrect.";
 $lang['matches']			= "Le champ %s ne correspond pas au champ %s.";
+$lang['is_unique'] 			= "Le champ %s doit contenir une valeur unique.";
 $lang['is_natural']			= "Le champ %s ne doit contenir que des nombres positifs.";
 $lang['is_natural_no_zero']		= "Le champ %s doit contenir un nombre strictement sup&eacute;rieur &agrave; z&eacute;ro.";
 $lang['decimal']			= "Le champ %s doit contenir un nombre d&eacute;cimal.";
